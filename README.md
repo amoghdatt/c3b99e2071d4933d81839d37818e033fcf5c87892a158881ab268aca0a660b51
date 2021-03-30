@@ -18,7 +18,7 @@ This application takes its input from a text file. A full path to the input file
 
 ### Project Structure
 - The project starts with main application residing in **App.java**. Here we initiliaze the Shan's family and it's members to start with.
-- The application is mainly performs two functions:
+- The application mainly performs two functions: 1) Get all relatived of a family member based on relationship 2)Add new member to family
    All the business logic resides in the service folder which consists of different managers.
 
    - Relationship Manager:
